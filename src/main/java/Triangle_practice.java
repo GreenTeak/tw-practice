@@ -19,7 +19,7 @@ class Triangle_practice {
         }
     }
 
-    public void print_right_trangle(int i) {
+    public void print_right_triangle(int i) {
         int num =1;
         while(num<=i){
             print_horizontal_star(num);
@@ -27,4 +27,5 @@ class Triangle_practice {
             num++;
         }
     }
+
 }

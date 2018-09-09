@@ -31,7 +31,7 @@ public class Triangle_practiceTest {
     }
     @Test
     public void should_be_return_right_three_triangle(){
-        triangle_practice.print_right_trangle(3);
+        triangle_practice.print_right_triangle(3);
         assertThat(output.toString(),is("*\n**\n***\n"));
     }
 }

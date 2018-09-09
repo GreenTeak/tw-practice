@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84cfad39-86aa-4a55-9a7e-8e494e8302ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Triangle_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Diamond_practiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Triangle_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Triangle_practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/Triangle_practiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/Triangle_practiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/triangle_pracitce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Diamond_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Diamond_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Triangle_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Triangle_practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Triangle_practiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Triangle_practiceTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,23 +32,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="704" />
+          <entry key="java" value="1566" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="704" />
+          <entry key="JAVA" value="1566" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -64,11 +62,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Triangle_practice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+            <state relative-caret-position="114">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="37" />
               <folding>
                 <element signature="e#55#56#0" expanded="true" />
                 <element signature="e#92#93#0" expanded="true" />
@@ -80,12 +78,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Triangle_practiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="33" column="45" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="45" />
+            <state relative-caret-position="419">
+              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#347#348#0" expanded="true" />
                 <element signature="e#401#402#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Diamond_practice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Diamond_practiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,8 +117,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -413,8 +434,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/triangle_practice.java" />
         <option value="$PROJECT_DIR$/src/main/java/triangle_pracitce.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Triangle_practiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Triangle_practice.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Triangle_practiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Diamond_practiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Diamond_practice.java" />
       </list>
     </option>
   </component>
@@ -507,9 +530,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536468580612" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536473477459" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -537,20 +561,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Triangle_practiceTest.should_be_return_vertical_three_star">
-    <configuration name="Triangle_practiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in tw_practice_test">
+    <configuration name="All in tw_practice_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tw_practice_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Triangle_practiceTest" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle_practiceTest.should_be_return_horizontal_eight_star" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Diamond_practiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tw_practice_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Triangle_practiceTest" />
-      <option name="METHOD_NAME" value="should_be_return_horizontal_eight_star" />
+      <option name="MAIN_CLASS_NAME" value="Diamond_practiceTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Diamond_practiceTest.should_be_return_diamond_when_input_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tw_practice_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Diamond_practiceTest" />
+      <option name="METHOD_NAME" value="should_be_return_diamond_when_input_3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Diamond_practiceTest.should_be_return_dimond_middle_is_Bill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tw_practice_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Diamond_practiceTest" />
+      <option name="METHOD_NAME" value="should_be_return_dimond_middle_is_Bill" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -566,40 +608,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle_practiceTest.should_be_return_vertical_three_star" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tw_practice_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Triangle_practiceTest" />
-      <option name="METHOD_NAME" value="should_be_return_vertical_three_star" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Triangle_practiceTest.should_be_return_vertical_three_start" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tw_practice_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Triangle_practiceTest" />
-      <option name="METHOD_NAME" value="should_be_return_vertical_three_start" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.Triangle_practiceTest.should_be_return_horizontal_eight_star" />
-      <item itemvalue="JUnit.Triangle_practiceTest" />
-      <item itemvalue="JUnit.Triangle_practiceTest.should_be_return_vertical_three_start" />
       <item itemvalue="JUnit.Triangle_practiceTest.should_be_return_right_three_triangle" />
-      <item itemvalue="JUnit.Triangle_practiceTest.should_be_return_vertical_three_star" />
+      <item itemvalue="JUnit.Diamond_practiceTest" />
+      <item itemvalue="JUnit.Diamond_practiceTest.should_be_return_diamond_when_input_3" />
+      <item itemvalue="JUnit.Diamond_practiceTest.should_be_return_dimond_middle_is_Bill" />
+      <item itemvalue="JUnit.All in tw_practice_test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Triangle_practiceTest.should_be_return_vertical_three_star" />
+        <item itemvalue="JUnit.All in tw_practice_test" />
+        <item itemvalue="JUnit.Diamond_practiceTest.should_be_return_dimond_middle_is_Bill" />
         <item itemvalue="JUnit.Triangle_practiceTest.should_be_return_right_three_triangle" />
-        <item itemvalue="JUnit.Triangle_practiceTest.should_be_return_vertical_three_start" />
-        <item itemvalue="JUnit.Triangle_practiceTest" />
-        <item itemvalue="JUnit.Triangle_practiceTest.should_be_return_horizontal_eight_star" />
+        <item itemvalue="JUnit.Diamond_practiceTest.should_be_return_diamond_when_input_3" />
+        <item itemvalue="JUnit.Diamond_practiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -613,44 +635,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536464552055</updated>
-      <workItem from="1536464555353" duration="2947000" />
+      <workItem from="1536464555353" duration="6948000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Triangle_practiceTest_should_be_return_horizontal_eight_star - 2018.09.09 at 12h 31m 07s.xml">
-      <configuration name="Triangle_practiceTest.should_be_return_horizontal_eight_star" configurationId="JUnit" />
+    <history-entry file="Diamond_practiceTest - 2018.09.09 at 13h 43m 24s.xml">
+      <configuration name="Diamond_practiceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Triangle_practiceTest - 2018.09.09 at 12h 34m 17s.xml">
-      <configuration name="Triangle_practiceTest" configurationId="JUnit" />
+    <history-entry file="Diamond_practiceTest_should_be_return_diamond_when_input_3 - 2018.09.09 at 13h 59m 55s.xml">
+      <configuration name="Diamond_practiceTest.should_be_return_diamond_when_input_3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Triangle_practiceTest_should_be_return_vertical_three_start - 2018.09.09 at 12h 40m 02s.xml">
-      <configuration name="Triangle_practiceTest.should_be_return_vertical_three_start" configurationId="JUnit" />
+    <history-entry file="Diamond_practiceTest_should_be_return_diamond_when_input_3 - 2018.09.09 at 14h 01m 08s.xml">
+      <configuration name="Diamond_practiceTest.should_be_return_diamond_when_input_3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Triangle_practiceTest_should_be_return_vertical_three_start - 2018.09.09 at 12h 40m 29s.xml">
-      <configuration name="Triangle_practiceTest.should_be_return_vertical_three_start" configurationId="JUnit" />
+    <history-entry file="Diamond_practiceTest_should_be_return_diamond_when_input_3 - 2018.09.09 at 14h 01m 42s.xml">
+      <configuration name="Diamond_practiceTest.should_be_return_diamond_when_input_3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Triangle_practiceTest_should_be_return_vertical_three_start - 2018.09.09 at 12h 42m 17s.xml">
-      <configuration name="Triangle_practiceTest.should_be_return_vertical_three_start" configurationId="JUnit" />
+    <history-entry file="Diamond_practiceTest_should_be_return_diamond_when_input_3 - 2018.09.09 at 14h 03m 31s.xml">
+      <configuration name="Diamond_practiceTest.should_be_return_diamond_when_input_3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Triangle_practiceTest_should_be_return_vertical_three_start - 2018.09.09 at 12h 42m 54s.xml">
-      <configuration name="Triangle_practiceTest.should_be_return_vertical_three_start" configurationId="JUnit" />
+    <history-entry file="Diamond_practiceTest_should_be_return_diamond_when_input_3 - 2018.09.09 at 14h 03m 55s.xml">
+      <configuration name="Diamond_practiceTest.should_be_return_diamond_when_input_3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Triangle_practiceTest_should_be_return_vertical_three_start - 2018.09.09 at 12h 43m 22s.xml">
-      <configuration name="Triangle_practiceTest.should_be_return_vertical_three_start" configurationId="JUnit" />
+    <history-entry file="Diamond_practiceTest_should_be_return_diamond_when_input_3 - 2018.09.09 at 14h 04m 53s.xml">
+      <configuration name="Diamond_practiceTest.should_be_return_diamond_when_input_3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Triangle_practiceTest_should_be_return_vertical_three_start - 2018.09.09 at 12h 43m 45s.xml">
-      <configuration name="Triangle_practiceTest.should_be_return_vertical_three_start" configurationId="JUnit" />
+    <history-entry file="Diamond_practiceTest_should_be_return_diamond_when_input_3 - 2018.09.09 at 14h 05m 23s.xml">
+      <configuration name="Diamond_practiceTest.should_be_return_diamond_when_input_3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Triangle_practiceTest_should_be_return_vertical_three_start - 2018.09.09 at 12h 43m 56s.xml">
-      <configuration name="Triangle_practiceTest.should_be_return_vertical_three_start" configurationId="JUnit" />
+    <history-entry file="Triangle_practiceTest_should_be_return_right_three_triangle - 2018.09.09 at 14h 07m 52s.xml">
+      <configuration name="Triangle_practiceTest.should_be_return_right_three_triangle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Triangle_practiceTest_should_be_return_vertical_three_start - 2018.09.09 at 12h 44m 09s.xml">
-      <configuration name="Triangle_practiceTest.should_be_return_vertical_three_start" configurationId="JUnit" />
+    <history-entry file="Diamond_practiceTest_should_be_return_dimond_middle_is_Bill - 2018.09.09 at 14h 07m 56s.xml">
+      <configuration name="Diamond_practiceTest.should_be_return_dimond_middle_is_Bill" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2947000" />
+    <option name="totallyTimeSpent" value="6948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -661,10 +683,10 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.32907802" />
-      <window_info anchor="bottom" id="Terminal" weight="0.18723404" />
+      <window_info anchor="bottom" id="Terminal" weight="0.17730497" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32907802" />
@@ -672,7 +694,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39432624" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2539007" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -715,8 +737,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Triangle_practiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="33" column="45" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="45" />
+        <state relative-caret-position="419">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#347#348#0" expanded="true" />
@@ -727,11 +749,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Triangle_practice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        <state relative-caret-position="114">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="37" />
           <folding>
             <element signature="e#55#56#0" expanded="true" />
             <element signature="e#92#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Diamond_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Diamond_practiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
           </folding>
         </state>
       </provider>
